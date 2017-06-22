@@ -47,5 +47,39 @@
 }
 
 .reveal ul {
-    list-style-type: square;
+    list-style-type: none;
+}
+
+.reveal pre {
+  border: none;
+  background-color: black;
+  padding: 1rem;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.reveal code {
+  color: #cce;
+}
+
+.reveal pre b {
+  color: #eee;
+  font-weight: 700;
+}
+
+.reveal code {
+  color: #cce;
+}
+
+.reveal li {
+  font-size: 110%;
+}
+
+.reveal li {
+  line-height: 1.1;
+  margin-bottom: 1.8rem;
+}
+
+.reveal h2 {
+    line-height: 1.1;
 }
