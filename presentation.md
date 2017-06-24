@@ -77,7 +77,7 @@ TensorFlow Chicago - June 22, 2017
 <ul>
 <li class="fragment">Tools for *TensorFlow package maintainers*
 <li class="fragment">Modeled off system packaging workflow
-<li class="fragment">Pre-release but usable
+<li class="fragment">Pre-release, mostly stable
 </ul>
 
 ---
@@ -85,8 +85,7 @@ TensorFlow Chicago - June 22, 2017
 ## Goals
 
 <ul>
-<li class="fragment">Standardize discovery and use of TensorFlow models and supporting code
-<li class="fragment">Support discovery and use of optimized datasets
+<li class="fragment">Standardize discovery and use of TensorFlow models<span class="fragment">, optimized datasets</span><span class="fragment">, and supporting code</span>
 <li class="fragment">Standardize interfaces for training and fine-tuning models
 <li class="fragment">Highlight model and dataset interfaces and compatibility
 </ul>
@@ -258,6 +257,17 @@ package() {
 ---
 
 # Demo
+
+---
+
+## Summary
+
+<ul>
+<li class="fragment">TensorFlow workflow mirrors traditional software
+<li class="fragment">Package managers will accelerate TensorFlow use/development
+<li class="fragment">Guild early packaging support available now - *package maintainers wanted!*
+<li class="fragment">Guild packaging support GA in Q3 2017
+</ul>
 
 ---
 
